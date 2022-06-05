@@ -2,7 +2,9 @@
 
 ## Visualização
 
+<h1 align="center">
 <img alt="Demonstração da utilização do site" title="Demonstração da utilização do site" src="./public/PrimeFlix.gif" width="100%"/>
+</h1>
 
 [Acesse a página](https://github.com/mmanaclara/primeflix) 🎉 
 
