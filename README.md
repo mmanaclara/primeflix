@@ -6,7 +6,9 @@
 <img alt="Demonstração da utilização do site" title="Demonstração da utilização do site" src="./public/PrimeFlix.gif" width="100%"/>
 </h1>
 
-[Acesse a página](https://github.com/mmanaclara/primeflix) 🎉 
+<p align="center">
+<a href="https://claraflix.netlify.app/">Acesse a página 🎉</a>
+</p>
 
 ## 💻 Projeto
 
