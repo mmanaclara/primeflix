@@ -1,70 +1,48 @@
-# Getting Started with Create React App
+<div id="topo"></div>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Visualização
 
-## Available Scripts
+[![Demonstração da utilização do site][Demonstração da utilização do site]](https://example.com)
 
-In the project directory, you can run:
+## 💻 Projeto
 
-### `npm start`
+O PrimeFlix foi um projeto realizado com o objetivo de aprender a fazer requisição de API e trabalhar com rotas. Nele é possível ter acesso a informações sobre vários filmes, ver a sinopse e assistir ao trailer de cada um. Além disso, há uma lista de favoritos, na qual podemos adicionar e remover filmes. 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Os principais desafios desse projeto foram a requisição de API e entender a lógica de funcionamento.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🧬 Tecnologias
+Este projeto foi desenvolvido utilizando as seguintes tecnologias:
+* [React](https://pt-br.reactjs.org/)
+* [React Router Dom]()
+* [API - The Movie Database (TMDB)](https://developers.themoviedb.org/3/getting-started/introduction)
+* [Axios](https://www.npmjs.com/package/axios)
+* [Hooks (useState, useEffect)]()
+* [React-Toastify](https://www.npmjs.com/package/react-toastify)
 
-### `npm test`
+## 📖 Conhecimento
+Com o PrimeFlix, aprendi a utilizar o: 
+* `react-router-dom`, para configurar as rotas e tratar rotas inexistentes (404)  
+* `axios` para requisição HTTP 
+* `Hooks`, para montar o que será exibido na tela e armazenar os filmes no storage 
+* `react-toastify` para estilizar os alerts. 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Utilização do projeto
 
-### `npm run build`
+### 💾 Baixar o projeto
+Faça o clone do repositório para ter uma versão do projeto em sua máquina:
+`$ git clone https://github.com/mmanaclara/primeflix.git`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 📃 Instalar dependências
+`$ npm install ou yarn`  
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### 🚀 Iniciar o projeto
+`$ npm start ou yarn start`
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 📝 Licença
+Este projeto está licenciado nos termos da licença [MIT](https://github.com/mmanaclara/primeflix/blob/main/MIT%20LICENSE). 
 
-### `npm run eject`
+## ✉ Contato
+[Clara Moreira](https://www.linkedin.com/in/clarammoreira/) - anacacamm@gmail.com
+Link do Projeto: [https://github.com/mmanaclara/primeflix](https://github.com/mmanaclara/primeflix)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<p align="right">(<a href="#topo">⬆</a>)</p>
