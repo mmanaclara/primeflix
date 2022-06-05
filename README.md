@@ -2,9 +2,9 @@
 
 ## Visualização
 
-[[Demonstração da utilização do site](https://gifyu.com/image/Sxe7s)]
+<img alt="Demonstração da utilização do site" title="Demonstração da utilização do site" src="./public/PrimeFlix.gif" width="100%"/>
 
-<p align="center">[Acesse a página](https://github.com/mmanaclara/primeflix)</p> 🎉 
+[Acesse a página](https://github.com/mmanaclara/primeflix) 🎉 
 
 ## 💻 Projeto
 
