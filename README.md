@@ -2,7 +2,7 @@
 
 ## Visualização
 
-[[Demonstração da utilização do site](https://gifyu.com/image/Sxe7s)]
+![Demonstração da utilização do site](https://s8.gifyu.com/images/Hnet-imagebd56144654c4496f.md.gif))
 
 <p align="center">[Acesse a página](https://github.com/mmanaclara/primeflix)</p> 🎉 
 
