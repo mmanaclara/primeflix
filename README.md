@@ -3,10 +3,12 @@
 ## Visualização
 
 <h1 align="center">
-<img alt="Demonstração da utilização do site" title="Demonstração da utilização do site" src="./public/PrimeFlix.gif" width="100%"/>
+<img alt="Demonstração da utilização do site" title="Demonstração da utilização do site" src="./public/primeflix-demo.gif" width="100%"/>
 </h1>
 
-[Acesse a página](https://github.com/mmanaclara/primeflix) 🎉 
+<p align="center">
+<a href="https://claraflix.netlify.app/">Acesse a página 🎉</a>
+</p>
 
 ## 💻 Projeto
 
@@ -46,3 +48,4 @@ Faça o clone do repositório para ter uma versão do projeto em sua máquina:<b
 Este projeto está licenciado nos termos da licença [MIT](https://github.com/mmanaclara/primeflix/blob/main/MIT%20LICENSE). 
 
 <p align="center"><a href="#topo">⬆</a></p>
+
